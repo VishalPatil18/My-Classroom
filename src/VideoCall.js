@@ -59,7 +59,7 @@ export default function VideoCall(props){
                 console.log(error);
             }
         }
-    }, [channelName, client, ready, tracks]);
+    }, [client, ready, tracks]);
 
     return (
         <Grid container direction="column" style={{height: "100%"}}>
