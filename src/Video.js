@@ -1,4 +1,4 @@
-import { AgoraVideoPlayer } from "agora-rtc-react"
+import { AgoraVideoPlayer } from "agora-rtc-react";
 import { Grid } from "@material-ui/core";
 import { useState, useEffect } from "react";
 

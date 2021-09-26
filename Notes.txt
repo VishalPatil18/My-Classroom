@@ -1,5 +1,0 @@
-Agora is a platform used for group video calling, audio calling, streaming SDK(Software development kit).
-It is a realtime engagement platform for human connections.
-We can do voice calls, video calls, we can even do screen recording and streaming and realtime messaging. 
-
-Agora has channels where users can join and chat. We can a channel whatever we want
